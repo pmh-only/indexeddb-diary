@@ -2,6 +2,7 @@
   "name": "uiux",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/indexeddb-diary",
   "dependencies": {
     "@craco/craco": "^6.4.2",
     "@fontsource/nanum-pen-script": "^4.5.0",
