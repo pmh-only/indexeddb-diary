@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/indexeddb-diary/static/css/main.f8a6a7c7.chunk.css",
+    "main.js": "/indexeddb-diary/static/js/main.e526cac7.chunk.js",
+    "main.js.map": "/indexeddb-diary/static/js/main.e526cac7.chunk.js.map",
+    "runtime-main.js": "/indexeddb-diary/static/js/runtime-main.e5ad7132.js",
+    "runtime-main.js.map": "/indexeddb-diary/static/js/runtime-main.e5ad7132.js.map",
+    "static/css/2.eb9c3047.chunk.css": "/indexeddb-diary/static/css/2.eb9c3047.chunk.css",
+    "static/js/2.8b6827b3.chunk.js": "/indexeddb-diary/static/js/2.8b6827b3.chunk.js",
+    "static/js/2.8b6827b3.chunk.js.map": "/indexeddb-diary/static/js/2.8b6827b3.chunk.js.map",
+    "index.html": "/indexeddb-diary/index.html",
+    "static/css/2.eb9c3047.chunk.css.map": "/indexeddb-diary/static/css/2.eb9c3047.chunk.css.map",
+    "static/css/main.f8a6a7c7.chunk.css.map": "/indexeddb-diary/static/css/main.f8a6a7c7.chunk.css.map",
+    "static/js/2.8b6827b3.chunk.js.LICENSE.txt": "/indexeddb-diary/static/js/2.8b6827b3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/indexeddb-diary/static/media/nanum-pen-script-all-400-normal.7a8398df.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5ad7132.js",
+    "static/css/2.eb9c3047.chunk.css",
+    "static/js/2.8b6827b3.chunk.js",
+    "static/css/main.f8a6a7c7.chunk.css",
+    "static/js/main.e526cac7.chunk.js"
+  ]
+}
