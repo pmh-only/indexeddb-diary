@@ -1,0 +1,83 @@
+@import "@fontsource/nanum-pen-script";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.font-pen {
+  font-family: 'Nanum Pen Script', cursive;
+}
+
+.cursor-none {
+  cursor: none;
+}
+
+.react-calendar {
+  background-color: #353A45;
+  font-size: 14px;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+.react-calendar__month-view__days__day--weekend {
+  color: #bf616a;
+}
+
+.react-calendar__tile {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.react-calendar__tile--active {
+  background-color: #5e81ac;
+}
+
+.react-calendar__tile--now {
+  background-color: #b48ead;
+}
+
+.react-calendar__tile:hover {
+  background-color: #2e3440 !important;
+}
+
+.react-calendar__navigation button:hover {
+  background-color: #2e3440 !important;
+}
+
+.se-btn-tray {
+  background-color: #3d4555 !important;
+}
+
+.se-btn > svg {
+  filter: invert(100%) sepia(0%) saturate(7499%) hue-rotate(339deg) brightness(100%) contrast(100%) !important;
+}
+
+.sun-editor {
+  background-color: transparent;
+  border: unset;
+  --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.sun-editor-editable {
+  background-color: #3d4555 !important;
+  color: white;
+  border-radius: 10px;
+}
