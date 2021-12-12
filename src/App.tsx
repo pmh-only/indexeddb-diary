@@ -38,7 +38,7 @@ export default function App () {
               <Calendar calendarType="US" locale="ko-KR" onChange={onChange} value={value}/>
             </motion.div>
             <div className="py-10">
-              만든이: 박민혁, 응원한사람: 김성희
+              팀장: 박민혁, 팀원: 김성희
             </div>
           </motion.div>
           <Card year={value.getFullYear()} month={value.getMonth() + 1} day={value.getDate()}/>
